@@ -22,11 +22,16 @@
 
 ∞ python2 AV-pro-crack.py
 
-Cara Cek Akunnya
-Ketik
-CTRL + Z
+Cara Cek Akunnya :
+
+Ketik CTRL + Z
+
 ls
+
 cd AV-pro-crack
-Lalu Ketik
+
+Lalu Ketik :
+
 Untuk Akun Yang OK : cat  multiresult.txt
+
 Untuk Akun Yang CP : cat checkpoint.txt
