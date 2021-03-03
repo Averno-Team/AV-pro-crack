@@ -14,6 +14,8 @@
 
 ∞ pip2 install bs4
 
+∞ pip2 install lolcat
+
 ∞ pkg install git
 
 ∞ git clone https://github.com/Averno-Team/AV-pro-crack
